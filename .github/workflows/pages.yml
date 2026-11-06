@@ -1,4 +1,4 @@
-name: Publish public ZAD storefront review
+name: Publish full ZAD growth report
 on:
   push:
     branches: [main]

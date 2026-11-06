@@ -1,9 +1,9 @@
-# ZAD public storefront review
+# ZAD — تقرير النمو الكامل
 
-Arabic UX and on-page SEO observations based on the public zadqiam.com store, inspected 6 November 2026.
+الفترة:1 أغسطس–31 أكتوبر2026. نُشرت النسخة الكاملة وأرقام المتجر المجمّعة علنًا بموافقة المالك الصريحة في6 نوفمبر2026. لا تتضمن سجلات العملاء الفردية أو التصديرات الخام.
 
-This public site contains public-store observations and screenshots only. Merchant analytics, funnel counts, order values, abandoned-cart statistics, admin screenshots and customer records are not included.
+التقرير: https://ahmads-cell.github.io/zad-store-review/
 
-The complete analysis and maintained source are kept separately in the project owner's local ZAD workspace. Uploading merchant analytics to a private repository is pending the owner's specific approval. No account permissions are changed by this publication.
+HTML مستقل: الصور وCSS وJavaScript والبيانات مضمنة؛ تنزيل JSON يُنشأ محليًا في المتصفح. جميع صفحات HTML تحمل noindex، لكنه ليس حماية وصول أو ضمانًا لكل محركات البحث، ولا يمنع فهرسة واجهة مستودع GitHub العام.
 
-Kloo is a format reference for the team's report method. Its store is kloo-sa.com; its findings and business data have not been merged into ZAD.
+المصدر المُصان في مساحة العمل: scripts/build_public_full_report.py وreport/.
